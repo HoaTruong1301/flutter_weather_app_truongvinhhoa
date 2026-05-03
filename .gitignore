@@ -48,12 +48,9 @@ app.*.map.json
 .env
 *.env
 
-# Large Media
-*.mp4
-*.mov
-*.avi
+# Large Media (Chỉ chặn các file cực lớn)
+video_2224802010812_truongvinhhoa.mp4
 
-# Large Media
-*.mp4
+# Media
 *.mov
 *.avi

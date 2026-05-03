@@ -46,7 +46,8 @@
    ```
 
 ## 🎥 Demo
-[Xem Video Demo (Local)](screenshots/video_2224802010812_truongvinhhoa.mp4)
+![Video Demo](screenshots/demo.mp4)
+
 
 ## 📸 Ảnh chụp màn hình (Screenshots)
 
@@ -62,12 +63,6 @@
 |:---:|:---:|
 | ![Error](screenshots/error.png) | ![Loading](screenshots/loading.png) |
 
-## ⚠️ Hạn chế hiện tại
-- Dữ liệu dự báo phụ thuộc vào gói API miễn phí nên có giới hạn số lần gọi.
-
-## 🔮 Cải tiến trong tương lai
-- Thêm biểu đồ nhiệt độ chi tiết.
-- Hỗ trợ đa ngôn ngữ.
 
 ---
 **Author**: Trương Vĩnh Hòa
