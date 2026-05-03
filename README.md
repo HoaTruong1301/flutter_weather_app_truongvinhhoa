@@ -31,7 +31,7 @@
    ```
 4. Mở file `.env` và dán API Key của bạn vào:
    ```env
-   OPENWEATHER_API_KEY=83aecd8c64bc30f3c441c09b7a4e3205
+   OPENWEATHER_API_KEY=your_api_key_here
    ```
 
 ### 2. Chạy ứng dụng
@@ -46,9 +46,7 @@
    ```
 
 ## 🎥 Demo
-
-![Video Demo](screenshots/video_2224802010812_truongvinhhoa.mp4)
-
+[Xem Video Demo (Local)](screenshots/video_2224802010812_truongvinhhoa.mp4)
 
 ## 📸 Ảnh chụp màn hình (Screenshots)
 
@@ -66,9 +64,10 @@
 
 ## ⚠️ Hạn chế hiện tại
 - Dữ liệu dự báo phụ thuộc vào gói API miễn phí nên có giới hạn số lần gọi.
-- Yêu cầu quyền vị trí để hoạt động tốt nhất.
 
 ## 🔮 Cải tiến trong tương lai
 - Thêm biểu đồ nhiệt độ chi tiết.
 - Hỗ trợ đa ngôn ngữ.
-- Thêm thông báo đẩy (Push Notifications) khi có thời tiết cực đoan.
+
+---
+**Author**: Trương Vĩnh Hòa

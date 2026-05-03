@@ -47,3 +47,13 @@ app.*.map.json
 # API Keys
 .env
 *.env
+
+# Large Media
+*.mp4
+*.mov
+*.avi
+
+# Large Media
+*.mp4
+*.mov
+*.avi
